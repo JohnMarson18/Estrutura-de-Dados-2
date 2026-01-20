@@ -7,7 +7,7 @@ O código foi desenvolvido em **Python** e **C**, com foco em análise de comple
 
 ## 👨‍💻 Autores
 * **Paulo Fernando Pereira Junior**
-* **Maria Luiza Souza**
+* **Maria Luiza Souza da Silva**
 
 ## 🎓 Orientação Acadêmica
 * **Disciplina:** Estrutura de Dados II
